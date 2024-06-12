@@ -22,3 +22,6 @@ arr.forEach((value,index,arr) => {
 
 //map, filter, reduce
 
+//DOM - to target elements using js to change css, etc
+
+
